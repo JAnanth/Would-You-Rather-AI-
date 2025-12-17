@@ -61,7 +61,7 @@ An engaging web application that generates thought-provoking "Would You Rather?"
    ```
 
 5. **Open your browser**
-   Navigate to `http://localhost:5173`
+   Navigate to `http://localhost:5100`
 
 ## Usage
 
